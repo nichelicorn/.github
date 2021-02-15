@@ -5,24 +5,26 @@
 
 [view the deployed page](at the link contained in the parens)
 
-#### Overview & Project Goals
-Description of Project and overall goals
+#### Overview & [Project](link to project goals) Goals
+- Description of Project and overall goals
 
 #### Learning Goals
-Learning goals defined in the DTR, or personal learning goals if a solo project
+- Learning goals defined in the DTR, or personal learning goals if a solo project
 
 #### Why was this project created?
-Description of learning goals in project rubric
+- Description of learning goals in project rubric
 
 #### How does this work?
-Description of app functionality
-Include any necessary technology to run the app (including tech necessary for the terminal to function correctly, like `npm`)
+![homepage screenshot](link in the parens)
+- Description of app functionality
+![app screenshots/gifs](link in the parens)
+- Include any necessary technology to run the app (including tech necessary for the terminal to function correctly, like `npm`)
 
 #### Want to contribute?
 Provide instructions for how users can fork/clone the repo and contribute to the project
 
 #### Technologies Used
-What was used to create the project
+What was used to create the project?
 
 #### Project Reflection
 General project reflection, an overview of how it went
@@ -36,12 +38,16 @@ Overall challenges - what could have gone better?
 ##### Overall Impressions
 How did it go?
 
-#### Future iterations
+#### Future Features
 What is next? If the project wasn't completed, include subsequent iterations
 If the project was completed, what would you do to make it better?
 
 #### Credits
+##### Co-Contributors
 [name](profile link in the parens)
+##### Mentors
+[name](profile link in the parens)
+##### Project Manager
 
 **************************************************************************
 
