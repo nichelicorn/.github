@@ -44,11 +44,11 @@ If the project was completed, what would you do to make it better?
 
 #### Credits
 ##### Co-Contributors
-[name](profile link in the parens)
+- [name](profile link in the parens)
 ##### Mentors
-[name](profile link in the parens)
+- [name](profile link in the parens)
 ##### Project Manager
-
+- [name](profile link in the parens)
 **************************************************************************
 
 ###### This project was created for [Turing School of Software and Design](https://turing.io/)
