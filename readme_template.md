@@ -21,7 +21,9 @@
 - Include any necessary technology to run the app (including tech necessary for the terminal to function correctly, like `npm`)
 
 #### Want to contribute?
-Provide instructions for how users can fork/clone the repo and contribute to the project
+- Fork this repository
+- Clone into your machine and CD into the directory
+- Make your changes and create a pull request! Your code will be reviewed by one of the project contributors.
 
 #### Technologies Used
 What was used to create the project?
