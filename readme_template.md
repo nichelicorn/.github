@@ -26,7 +26,9 @@
 - Make your changes and create a pull request! Your code will be reviewed by one of the project contributors.
 
 #### Technologies Used
-What was used to create the project?
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### Project Reflection
 General project reflection, an overview of how it went
