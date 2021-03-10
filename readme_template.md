@@ -48,11 +48,11 @@ If the project was completed, what would you do to make it better?
 
 #### Credits
 ##### Co-Contributors
-- [name](profile link in the parens)
+- [🌿 Nichele D](https://github.com/nichelicorn)
 ##### Mentors
-- [name](profile link in the parens)
+- [⛷ Rachael Thomas](https://github.com/rachael-t)
 ##### Project Manager
-- [name](profile link in the parens)
+- [👩‍🏫 Turing Mod 1 Instructors](https://frontend.turing.io/lessons/)
 **************************************************************************
 
 ###### This project was created for [Turing School of Software and Design](https://turing.io/)
