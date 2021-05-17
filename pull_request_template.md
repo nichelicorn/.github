@@ -1,10 +1,9 @@
 # Pull Request Template
 ## Description
-Please include a summary of the change and which issue is fixed. Please also include relevant screenshots of your code being deployed. 
-Fixes # (issue)
+* A summary of the change and which issue is fixed 
+* Please also include relevant screenshots of your code being deployed or design updates
 
 ## Type of change
-Please delete options that are not relevant.
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Refactoring
@@ -17,5 +16,3 @@ Please delete options that are not relevant.
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I have checked my code and corrected any misspellings
-
-#### Please add appreciative feedback in the comment section of this PR after reviewing.
