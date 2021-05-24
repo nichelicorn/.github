@@ -17,7 +17,7 @@ walkthrough of how to use the app
 ## Author
 <table>
     <tr>
-        <td> 🌚 Nichele D 🦄 <a href="https://github.com/nichelicorn"> GitHub 🐙</td>
+        <td>Nichele D 🦄 <a href="https://github.com/nichelicorn">GitHub</td>
     </tr>
     </tr>
         <td><img src="https://avatars.githubusercontent.com/u/63027000?v=4" alt="Nichele D, aka nichelicorn" width="150" height="auto" /></td>
