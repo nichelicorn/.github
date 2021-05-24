@@ -30,6 +30,7 @@ walkthrough of how to use the app
         <td>Functionality</td>
     </tr>
     </tr>
-        <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1" alt="The JavaScript logo, a yellow square with the uppercase letters JS in the lower right third" width="100" height="auto" /></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="The JavaScript logo, a yellow square with the uppercase letters JS in the lower right corner" width="100" height="auto" /></td>
     </tr>
+    
 </table>
