@@ -1,7 +1,7 @@
 # Pull Request Template
 ## Description
 * A summary of the change and which issue is fixed 
-* Please also include relevant screenshots of your code being deployed or design updates
+* Include relevant screenshots / gifs of your code being deployed or design updates
 
 ## Type of change
 - [ ] Bug fix (non-breaking change which fixes an issue)
