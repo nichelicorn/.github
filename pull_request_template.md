@@ -1,4 +1,4 @@
-# Pull Request Template
+# Pull Request
 ## Description
 * A summary of the change and which issue is fixed 
 * Include relevant screenshots / gifs of your code being deployed or design updates
@@ -8,7 +8,7 @@
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Refactoring
 
-## Checklist:
+## Checklist
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
@@ -16,3 +16,7 @@
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I have checked my code and corrected any misspellings
+
+# Next Steps
+* 🚧 Include issue number (if known) and description of what you'll work on next
+* Include relevant screenshots / gifs of your code being deployed or design updates
