@@ -1,5 +1,5 @@
 # .github files
-a repo to store templates
+Repository default files, or, template files that can be used cross-repo.
 
 
 
